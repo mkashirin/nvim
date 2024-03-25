@@ -1,6 +1,6 @@
 # Neovim configuration
 
-Current repository represents the active Neovim editor configuration.
+This repository represents the active Neovim editor configuration.
 
 Clone this repo to the path, where the Neovim configuration files should be located on your machine by executing this line:
 
